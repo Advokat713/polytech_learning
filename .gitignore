@@ -1,0 +1,5 @@
+# Igonre some files
+*.csv
+*.json
+*.db
+*.txt
