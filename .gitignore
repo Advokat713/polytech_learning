@@ -2,3 +2,7 @@
 *.csv
 *.json
 *.db
+
+# Ignore big folders
+*cifar_10_batches_py
+*hymenoptera_data
